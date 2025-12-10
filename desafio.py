@@ -12,5 +12,8 @@ dv=n1/n2
 
 print(dv)
 
+sub=n1-n2
+print(sub)
+
 
 
