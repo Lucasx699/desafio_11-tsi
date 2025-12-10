@@ -15,5 +15,6 @@ print(dv)
 sub=n1-n2
 print(sub)
 
-
-
+mult=n1*n2
+ 
+print(mult)
